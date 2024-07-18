@@ -11,3 +11,7 @@ How to run:
   - npx cypress open
   - select browser
   - select file to run
+
+test case  : cypress/e2e/submissionui/form.cy.js
+actions    : cypress/support/pageAction/formAction.js
+assertions : cypress/support/pageAssertion/formAssertion.js
