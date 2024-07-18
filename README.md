@@ -12,6 +12,7 @@ How to run:
   - select browser
   - select file to run
 
+3 main files in this repo:
 - test case : cypress/e2e/submissionui/form.cy.js
 - actions : cypress/support/pageAction/formAction.js
 - assertions : cypress/support/pageAssertion/formAssertion.js
